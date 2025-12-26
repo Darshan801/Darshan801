@@ -1,16 +1,46 @@
-## Hi there 👋
+👋 Hi, I’m Darshan
 
-<!--
-**Darshan801/Darshan801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Python | Django | Web Development
+🌱 Currently learning Backend Development & Automation
+🚀 Passionate about building real-world projects
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 I enjoy working with Python & Django
+
+🔹 Building projects like To-Do Apps, Authentication Systems, Web Automation
+
+🔹 Learning Scrapy, Playwright, Git, and GitHub
+
+🔹 Interested in E-commerce systems and backend logic
+
+Tech Stack
+
+Languages: Python, HTML, CSS, JavaScript
+
+Frameworks: Django
+
+Tools: Git, GitHub, VS Code
+
+Databases: SQLite, MySQL (basic)
+
+📌 Projects
+
+✅ Django To-Do App – User-based task management
+
+🔐 Authentication System – Signup & Login using Django
+
+🕷️ Web Scraping – Scrapy & Playwright automation
+
+🛒 E-commerce Study Project – Business analysis & implementation
+
+📚 Currently Learning
+
+Advanced Django
+
+REST APIs
+
+Web Automation
+
+Deployment basics
